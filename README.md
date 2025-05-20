@@ -1,4 +1,3 @@
-
-Alumno: <Brandon>
-Division: <211>
-Turno: <Tarde>
+Alumno: Brandon Cuenze
+Division: 211
+Turno: Tarde
